@@ -15,8 +15,7 @@ d) User delete his/her own blogs from dashboard
 e) Pagination
 
 3. Site administration- Django Framework
-a) Site-administrator can view existing blogs list in json format through api
-endpoint only
+a) Site-administrator can view existing blogs list
 b) Site-admin can delete, update, create blogs through api endpoints only
 
 4. Bootstrap designing (Optional)
