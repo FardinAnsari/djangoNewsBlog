@@ -1,6 +1,6 @@
 # djangoNewsBlog
 
-##this news blog website is capable of
+## this news blog website is capable of
 1. Authentication
 a) User login, logout
 b) User registration
@@ -22,7 +22,7 @@ b) Site-admin can delete, update, create blogs through api endpoints only
 a) Usage of font-awsome based delete icon in dashboard
 b) Bootstrap form-controls for blogs creation form
 
-##steps to install-
+## steps to install-
 clone the repository
 
 install python 3.9 from 
