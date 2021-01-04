@@ -1,7 +1,7 @@
 # djangoNewsBlog
 
 this news blog website is capable of
-Authentication
+1. Authentication
 a) User login, logout
 b) User registration
 c) Standard password validation
