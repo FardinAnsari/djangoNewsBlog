@@ -28,7 +28,15 @@ clone the repository
 install python 3.9 from 
 https://www.python.org/ftp/python/3.9.1/python-3.9.1-amd64.exe
 
-open the virtual environment in the directory by typing
+In the project directory open command prompt
+
+You can install virtual environment using pip:
+### py -m pip install --user virtualenv
+
+For creating new environment:
+### py -m venv myproject
+
+To activate your virtual environment:
 ### .\myproject\Scripts\activate
 
 install all the dependencies
